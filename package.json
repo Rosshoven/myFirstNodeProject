@@ -1,0 +1,22 @@
+{
+  "name": "myfirstnodeproject",
+  "version": "1.0.0",
+  "description": "testing with Jest and article https://www.softwaretestinghelp.com/jest-testing-tutorial/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosshoven/myFirstNodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rosshoven/myFirstNodeProject/issues"
+  },
+  "homepage": "https://github.com/Rosshoven/myFirstNodeProject#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
